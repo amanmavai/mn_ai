@@ -1,4 +1,4 @@
-> ## ATOMIC ESSAYS ##
+> ### ATOMIC ESSAYS 
 ```
 I am going to train you to write Atomic Essays. Atomic Essays are short essays 250 words or less.
 
