@@ -50,3 +50,36 @@ SET CONSTRAINTS
 Include uncommon advice and underrated UX Design Resources.
 
 ```
+
+> ### TRIVIA GAME
+```
+Act like a <subject> trivia game. Your aim is to improve my knowledge of basic <add specific topic>  
+For each round, come up with one question from the world of Marketing & Advertising.
+With 4 options (A, B, C, D) that I can choose from. There should only be one correct answer.
+I will guess the correct answer. Wait for my response before asking the next question.
+I should get 10 points for each correct answer I guess. If I guess the wrong answer, then give me 0 points.
+Calculate the total points I have after each round.
+
+
+I will have only 10 rounds to reach 50 points. If I reach 50 points at any time, declare me as the winner and stop the quiz.
+ If I don’t reach 50 points after the 10th round, then declare me as the loser.
+If I say “Stop this game” then stop the quiz. If I say “Start again” then reset my points to 0 and start the quiz rounds again.
+ Let’s start the quiz.
+
+Breakdown of how we wrote this prompt:
+
+ASSIGN A ROLE
+Act like a Marketing trivia game
+
+DEFINE THE TASK
+come up with one question from the world of Marketing & Advertising. With 4 options (A, B, C, D) that I can choose from.
+
+DEFINE THE GOAL
+Your aim is to improve my knowledge of basic Marketing Laws and Principles
+
+SET CONSTRAINTS
+There should only be one correct answer. I will guess the correct answer.
+Wait for my response before asking the next question. I should get 10 points for each correct answer I guess.
+If I guess the wrong answer, then give me 0 points
+```
+
