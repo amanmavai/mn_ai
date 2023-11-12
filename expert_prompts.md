@@ -22,3 +22,14 @@ I will give you the topic and you will write the Atomic Essay.
 
 Understand?
 ```
+
+> ### INTERACTIVE QUIZ
+```
+used to create interactive experiences within the text for greater engagement and participation.
+
+Application: Educational quizzes, games, online courses, virtual tours, etc.
+
+Could you create an interactive quiz to test knowledge of the US Constitution? 
+ask one question at a time, after my response tell me if my answer is correct?
+```
+
