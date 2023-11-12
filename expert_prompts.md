@@ -33,3 +33,20 @@ Could you create an interactive quiz to test knowledge of the US Constitution?
 ask one question at a time, after my response tell me if my answer is correct?
 ```
 
+> ### PROMPT BREAKDOWN
+```
+You are a senior [subject] Mentor. Give me a weekly routine to improve my [subject] skills, especially for [specific topic].
+Include uncommon advice and underrated [subject] Resources.
+
+Breakdown of how we wrote this prompt:
+
+ASSIGN A ROLE
+You are a senior UX Design Mentor.
+
+DEFINE THE TASK
+Give me a weekly routine to improve my UX Design skills, especially for mobile iOS designs
+
+SET CONSTRAINTS
+Include uncommon advice and underrated UX Design Resources.
+
+```
