@@ -10,5 +10,14 @@
   
 > # Prompting Principles
   - Principle 1: Write **clear and specific** instructions
+      - clear != short
+      - **tactic1**: Use delimiters to clearly indicate distinct parts of the input
+         - Delimiters can be anything like:
+           - ```,
+           - """,
+           - < >,
+           - <tag> </tag>, :
+   
+ 
   - Principle 2: Give the model time to “think”
 
