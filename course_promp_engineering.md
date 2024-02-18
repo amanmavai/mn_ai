@@ -16,7 +16,7 @@
            - \```,
            - """,
            - < >,
-           - xml tags: \<tag\> \</tag\> :
+           - \<tag\> \</tag\> :
    
  
   - Principle 2: Give the model time to “think”
