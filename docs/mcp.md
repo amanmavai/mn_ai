@@ -36,3 +36,7 @@ Custom AI app built with MCP support → Your own AI assistant that can connect 
 - **MCP Servers**: Lightweight programs that each expose specific capabilities through the standardized Model Context Protocol
 - **Local Data Sources**: Your computer’s files, databases, and services that MCP servers can securely access
 - **Remote Services**: External systems available over the internet (e.g., through APIs) that MCP servers can connect to
+
+
+# references
+1. https://modelcontextprotocol.io/introduction
