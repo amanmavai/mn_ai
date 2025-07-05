@@ -1,4 +1,5 @@
 # Model Context Protocol
+  - MCP is an open protocol that standardizes how applications provide context to LLMs.
   - is an open standard that enables developers to build secure, two-way connections 
   - between their data sources and AI-powered tools. 
   - The architecture is straightforward: developers can either expose their data through MCP servers or build AI applications (MCP clients) that connect to these servers.
@@ -27,3 +28,11 @@ Custom AI app built with MCP support → Your own AI assistant that can connect 
 ## The key difference:
 - **Regular AI assistants** are like smartphones without app stores - they can only do what's built-in
 - **MCP clients** are like smartphones with app stores - they can extend their capabilities by connecting to MCP servers (like downloading apps)
+
+# Jargon
+
+- **MCP Hosts**: Programs like Claude Desktop, IDEs, or AI tools that want to access data through MCP
+- **MCP Clients**: Protocol clients that maintain 1:1 connections with servers
+- **MCP Servers**: Lightweight programs that each expose specific capabilities through the standardized Model Context Protocol
+- **Local Data Sources**: Your computer’s files, databases, and services that MCP servers can securely access
+- **Remote Services**: External systems available over the internet (e.g., through APIs) that MCP servers can connect to
