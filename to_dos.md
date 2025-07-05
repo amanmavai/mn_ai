@@ -1,0 +1,1 @@
+- [ ] implement your own mcp server and client and understand the protocol flow end to end
