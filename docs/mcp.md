@@ -23,3 +23,7 @@ Basic Claude without MCP → Limited to its training data and basic web search
 Claude Desktop → AI assistant that can connect to MCP servers
 Zed with AI → Code editor's AI that can use MCP tools
 Custom AI app built with MCP support → Your own AI assistant that can connect to MCP servers
+
+## The key difference:
+- **Regular AI assistants** are like smartphones without app stores - they can only do what's built-in
+- **MCP clients** are like smartphones with app stores - they can extend their capabilities by connecting to MCP servers (like downloading apps)
