@@ -6,3 +6,6 @@ shift + tab (twice)
 use @ to refer to files / folders in the current project
 
 ```
+
+# subagents
+use subagents to explore multiple paths in parallel (e.g. when you have multiple ideas for a solution)
