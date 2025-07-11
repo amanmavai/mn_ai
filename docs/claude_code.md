@@ -5,6 +5,8 @@ shift + tab (twice)
 # file paths
 use @ to refer to files / folders in the current project
 
+# claude code usage report
+bunx ccusage
 ```
 
 # subagents
