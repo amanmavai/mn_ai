@@ -53,7 +53,7 @@ Include uncommon advice and underrated UX Design Resources.
 
 > ### TRIVIA GAME
 ```
-Act like a <subject> trivia game. Your aim is to improve my knowledge of basic <add specific topic>  
+Act like a <subject> trivia game. Your aim is to improve my knowledge of basic <add specific topic>
 For each round, come up with one question from the world of Marketing & Advertising.
 With 4 options (A, B, C, D) that I can choose from. There should only be one correct answer.
 I will guess the correct answer. Wait for my response before asking the next question.
