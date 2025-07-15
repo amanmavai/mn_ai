@@ -1,1 +1,3 @@
 - [ ] implement your own mcp server and client and understand the protocol flow end to end
+- [ ] implement useful custom commands in claude code
+- [ ] learn to write effective and concise spec for implementation of features
