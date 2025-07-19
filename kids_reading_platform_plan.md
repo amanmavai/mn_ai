@@ -55,7 +55,8 @@ A comprehensive learning platform designed to help children learn to read Englis
 - **Leaderboards**: Friend competitions (optional, with parental controls)
 - **Virtual Pet/Avatar**: Grows and evolves with reading progress
 - **Reading Quests**: Story-based learning adventures
-
+- **Typing Challenges**: Short tasks by typing words or sentences
+  
 ### 2. Multimedia Integration
 - **Audio Support**: Professional narration for all content
 - **Visual Aids**: Illustrations, animations, and interactive elements
@@ -78,6 +79,7 @@ A comprehensive learning platform designed to help children learn to read Englis
 - **Non-fiction Content**: Science, history, biography for kids
 - **Poetry and Rhymes**: Nursery rhymes, simple poems
 - **Interactive eBooks**: Enhanced digital reading experience
+- **Spiritual and Cultural Stories**: Diverse stories from various cultures
 
 ### 2. Educational Games
 - **Word Building Games**: Drag-and-drop letter combinations
