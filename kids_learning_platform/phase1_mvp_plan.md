@@ -106,3 +106,6 @@ Build a minimal viable product focused on **letter recognition** and **basic sig
 - **Total**: 55-85 hours for complete MVP
 
 This focused approach ensures a working product in 6-8 weeks that validates core learning concepts before expanding to more complex features.
+
+# names
+- Alphaplay
