@@ -1,0 +1,1 @@
+- [ ] create kids learning platform, initially for reading english
