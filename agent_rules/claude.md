@@ -14,3 +14,7 @@ Before coding, make a plan:
 4. Verify with these questions:
    - Are there unnecessary abstractions?
    - Will this be clear to future developers?
+
+## follow all the best practices and patterns encoded in this file for reference
+@src/routes/plan-shopping.tsx (replace this with your file path)
+
