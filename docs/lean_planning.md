@@ -1,15 +1,44 @@
-Here are some jargon terms that capture these planning principles:
+# Lean Planning
 
-## Planning Jargon
+A methodology for creating minimal, focused plans that start small and grow intentionally.
 
-**Core Terms:**
+## Core Principles
+**Start Minimal**: Begin with the absolute minimum viable plan. Identify the simplest thing that moves you toward your goal.
+**Grow Intentionally**: Add complexity only when necessary. Each addition should have clear value.
+**Maintain Focus**: Regularly prune unnecessary elements to prevent scope creep.
+
+
+## Implementation Approach for MVP project (Minimum Viable Piece)
+
+### Phase 1: Atomic Decomposition
+**INPUT**: Clear prompt or detailed requirement  
+**PROCESS**: Break down into atomic, independent tasks that collectively achieve the goal  
+**OUTPUT**: Prioritized list of meaningful tasks with clear completion criteria
+
+### Phase 2: Sequential MVP Execution
+1. **Select First Task**: Choose highest-value or foundational task from list
+2. **Start Minimal**: Implement absolute minimum version that demonstrates core value
+3. **Iterate to Stability**: Refine through rapid feedback cycles until robust
+4. **Gate Check**: Verify task completion criteria before proceeding
+5. **Repeat**: Apply same process to next task, potentially adjusting remaining tasks based on learnings
+
+### Key Success Factors
+- **Independence**: Each task should be completable without dependency blockers
+- **Measurable Progress**: Clear definition of "done" for each iteration
+- **Value-First**: Prioritize tasks that unlock the most learning or business value
+- **Adaptation**: Remaining tasks may shift based on insights from completed work
+
+
+## Planning Terminology
+
+### Core Concepts
 - **MVP-First** - The practice of identifying and building the absolute minimum viable piece before anything else
-- **Atomic Planning** - Breaking down complex projects into the smallest indivisible planning units
-- **Seed Planning** - Starting with the tiniest viable kernel of a plan that can grow organically
+- **Atomic Planning**: Break complex projects into the smallest meaningful units
+- **Seed Planning**: Start with a tiny kernel that can grow organically
 
-**Process Terms:**
+### Process Methods
 - **Plan Sharding** - The act of splitting a large plan into multiple smaller, independent plan files
-- **Complexity Pruning** - Actively removing unnecessary elements to maintain minimal scope
+- **Complexity Pruning**: Remove unnecessary elements to maintain minimal scope
 - **Incremental Scaffolding** - Building up from the simplest foundation, adding only what's essential at each step
 
 **Usage Examples:**
@@ -19,11 +48,3 @@ Here are some jargon terms that capture these planning principles:
 - "Time for some **complexity pruning** - this is getting bloated"
 
 These terms help you quickly communicate the philosophy of starting minimal and growing intentionally, while keeping complexity under control.
-
-
-## Planning Guidelines
-- **minimal**: figure out the absolute minimum plan first towards achieving the end goal. (i.e. figure out the simplest thing first and you grow from there towards the end goal). being minimal is necessary to contain unnecessary complexity.
-
-
-## Example Plan for implementing Page P1
-Plan the implementation in multiple iterations depending on the complexity of the page, for medium complexity, we can plan in 3 iterations
