@@ -16,3 +16,5 @@ every 5 hours you get approximately
 800 prompts ($200 Max)
 
 You can also use Claude Code using the Anthropic APIs but that can cost you more.
+
+- Claude Code supports up to ~200K‑token context.
