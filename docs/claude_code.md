@@ -36,3 +36,9 @@ use subagents to explore multiple paths in parallel (e.g. when you have multiple
 - ! for running bash commands and including their output in context 
 - Keywords like `think`, `think hard`, `think harder`, and `ultra think` to trigger different levels of thinking budgets for Claude's models (use sparingly due to quota consumption).
 - Ctrl + Dash to undo typing in the terminal 
+
+# commands
+Utilizing Commands for Specific Tasks (code-review etc). For specific tasks requiring additional context without polluting the root claude.md file, you can create custom commands in the commands folder. These commands can accept arguments and include outputs of bash commands
+
+# subagents
+could you research what you would recommend for this, perhaps you could split these into 3 separate issues and tackle them in parallel using subagents so I don't have to wait too long. 
