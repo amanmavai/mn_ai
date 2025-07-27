@@ -42,3 +42,12 @@ Utilizing Commands for Specific Tasks (code-review etc). For specific tasks requ
 
 # subagents
 could you research what you would recommend for this, perhaps you could split these into 3 separate issues and tackle them in parallel using subagents so I don't have to wait too long. 
+
+## What are sub agents?
+
+Sub agents are pre-configured AI personalities that Claude Code can delegate tasks to. Each sub agent:
+
+* Has a specific purpose and expertise area
+* Uses its own context window separate from the main conversation
+* Can be configured with specific tools it's allowed to use
+* Includes a custom system prompt that guides its behavior
