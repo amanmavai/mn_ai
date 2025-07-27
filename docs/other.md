@@ -1,0 +1,1 @@
+1. you can create gemini to get summary of youtube videos
