@@ -31,3 +31,8 @@ use subagents to explore multiple paths in parallel (e.g. when you have multiple
 
 # version control
 - Adding pre-commit checks (e.g., compile checks, linters, unit tests) using tools like Husky [15:10] can ensure high code quality and automated feedback for Claude.
+
+# utility features
+- ! for running bash commands and including their output in context 
+- Keywords like `think`, `think hard`, `think harder`, and `ultra think` to trigger different levels of thinking budgets for Claude's models (use sparingly due to quota consumption).
+- Ctrl + Dash to undo typing in the terminal 
